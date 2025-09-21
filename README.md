@@ -8,6 +8,7 @@ Este é um projeto de sistema médico desenvolvido como parte dos estudos univer
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Shadcn/ui](https://ui.shadcn.com/)
 
 ## Como rodar o projeto
 
