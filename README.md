@@ -1,6 +1,6 @@
-# Medical System
+# Storage System
 
-Este é um projeto de sistema médico desenvolvido como parte dos estudos universitários.
+Projeto simples com formulário de login e gerenciamento de produtos.
 
 ## Tecnologias Utilizadas
 
